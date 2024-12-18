@@ -19,7 +19,7 @@ I included another option where the user can input a number and it will be check
 <img width="396" alt="2_1_2" src="https://github.com/user-attachments/assets/33b9831a-2a35-4200-a30e-d9864fccb83e" />
 
 
-## Project 2
+## Project 2 - Working with a small dataset
 
 This piece of work uses the dataset [student.csv](https://github.com/user-attachments/files/18172746/student.xlsx)
 
