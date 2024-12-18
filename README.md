@@ -3,7 +3,7 @@ Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
 
 # Python Analysis
 
-This is work that I did in Excel during my Data Technician Skills Bootcamp.
+This is work that I did in Python (on Google Colab) during my Data Technician Skills Bootcamp.
 
 ## Project 1 - FizzBuzz
 Go through the integers from 1 to 100.
