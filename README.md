@@ -20,7 +20,7 @@ I included another option where the user can input a number and it will be check
 
 ### [Here](https://colab.research.google.com/github/andypeacock215/Python/blob/main/Portfolio_code_examples.ipynb) you can find working examples of these, and some of my other favourite non-data coding.
 
-##  
+
 ## Project 2 - Working with a small dataset
 
 This piece of work uses the dataset [student.csv](https://github.com/user-attachments/files/18172746/student.xlsx)
@@ -35,7 +35,7 @@ This piece of work uses the dataset [student.csv](https://github.com/user-attach
 
 <img width="195" alt="3_1_4" src="https://github.com/user-attachments/assets/c31bd852-5a83-416e-93a5-ebab2dc9902a" />
 
-##  
+
 ### Indexing and Slicing
 
 ![3_2_1](https://github.com/user-attachments/assets/8ca77bc3-07be-4454-b1a9-86ecb941df06)
@@ -46,7 +46,7 @@ This piece of work uses the dataset [student.csv](https://github.com/user-attach
 
 ![3_2_4](https://github.com/user-attachments/assets/a6740966-b0b9-48cd-92ab-ee42bd2db42f)
 
-##  
+
 ### Data Manipulation
 
 ![3_3_1](https://github.com/user-attachments/assets/bb82acf0-7eb3-414b-a34b-dfd4eb9c5124)
@@ -55,7 +55,7 @@ This piece of work uses the dataset [student.csv](https://github.com/user-attach
 
 ![3_3_3](https://github.com/user-attachments/assets/33eb3158-5c01-406d-b555-d0ed094efe16)
 
-##
+
 ### Aggregation and Grouping
 
 ![3_4_1](https://github.com/user-attachments/assets/e943acfd-c43e-4801-97e6-09132d381ffe)
@@ -66,7 +66,7 @@ This piece of work uses the dataset [student.csv](https://github.com/user-attach
 
 ![3_4_4](https://github.com/user-attachments/assets/6d700fbd-97b4-47f8-9503-1442a74a0606)
 
-##
+
 ### Advanced Operations
 
 ![3_5_1](https://github.com/user-attachments/assets/8b795d5c-dcbd-47e0-a2c9-1da2f3ea9694)
@@ -75,14 +75,14 @@ This piece of work uses the dataset [student.csv](https://github.com/user-attach
 
 ![3_5_3](https://github.com/user-attachments/assets/c959f88d-2266-472d-8115-f075f4f6a2a7)
 
-##
+
 ### Exporting Data
 
 <img width="326" alt="3_6_1" src="https://github.com/user-attachments/assets/1503e78f-0af7-436f-a5f6-598e02e86fe9" />
 
 <img width="298" alt="3_6_2" src="https://github.com/user-attachments/assets/fdab9ebf-c619-4112-b695-429d6489754d" />
 
-##
+
 ### Visualisations
 
 ![3_7_1](https://github.com/user-attachments/assets/0a5c1702-b429-4705-819f-76cc31941587)
@@ -93,8 +93,7 @@ This piece of work uses the dataset [student.csv](https://github.com/user-attach
 
 ![3_7_4](https://github.com/user-attachments/assets/8ac0ed5c-80ba-45fa-9ea2-6c517f674dc2)
 
-##
-##
+
 ## Project 3 - Open ended task working with a large dataset
 
 This project used the dataset [GDP (nominal) per Capita.csv](https://github.com/user-attachments/files/18172801/GDP.nominal.per.Capita.xlsx)
@@ -178,6 +177,5 @@ This project used the dataset [GDP (nominal) per Capita.csv](https://github.com/
 ![4_39](https://github.com/user-attachments/assets/c21521ae-d138-4400-8605-7b668581227f)
 
 
-##
 
 Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
