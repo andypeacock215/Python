@@ -20,7 +20,7 @@ I included another option where the user can input a number and it will be check
 
 ### [Here](https://colab.research.google.com/github/andypeacock215/Python/blob/main/Portfolio_code_examples.ipynb) you can find working examples of these, and some of my other favourite non-data coding.
 
-##
+##  
 ## Project 2 - Working with a small dataset
 
 This piece of work uses the dataset [student.csv](https://github.com/user-attachments/files/18172746/student.xlsx)
@@ -35,7 +35,7 @@ This piece of work uses the dataset [student.csv](https://github.com/user-attach
 
 <img width="195" alt="3_1_4" src="https://github.com/user-attachments/assets/c31bd852-5a83-416e-93a5-ebab2dc9902a" />
 
-##
+##  
 ### Indexing and Slicing
 
 ![3_2_1](https://github.com/user-attachments/assets/8ca77bc3-07be-4454-b1a9-86ecb941df06)
@@ -46,7 +46,7 @@ This piece of work uses the dataset [student.csv](https://github.com/user-attach
 
 ![3_2_4](https://github.com/user-attachments/assets/a6740966-b0b9-48cd-92ab-ee42bd2db42f)
 
-##
+##  
 ### Data Manipulation
 
 ![3_3_1](https://github.com/user-attachments/assets/bb82acf0-7eb3-414b-a34b-dfd4eb9c5124)
