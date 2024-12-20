@@ -4,6 +4,7 @@
 
 This is work that I did in Python (on Google Colab) during my Data Technician Skills Bootcamp.
 
+
 ## Project 1 - FizzBuzz
 Go through the integers from 1 to 100.
 If a number is divisible by 3, print "fizz."
@@ -16,6 +17,8 @@ Otherwise, print just the number.
 I included another option where the user can input a number and it will be checked for FizzBuzz
 
 <img width="396" alt="2_1_2" src="https://github.com/user-attachments/assets/33b9831a-2a35-4200-a30e-d9864fccb83e" />
+
+### [Here](https://colab.research.google.com/github/andypeacock215/Python/blob/main/Portfolio_code_examples.ipynb) you can find working examples of these, and some of my other favourite non-data coding.
 
 
 ## Project 2 - Working with a small dataset
